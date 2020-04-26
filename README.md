@@ -8,7 +8,7 @@ If you are kanersps and you wish to remove this repository too, please tell me o
 
 ESX creator explanation : https://github.com/ESX-Org/es_extended2 (don't know if kanersps did the same)
 
-ENJOY!
+(this is the last version of esx) ENJOY!
 
 # es_extended
 
