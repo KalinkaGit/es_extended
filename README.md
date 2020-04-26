@@ -1,4 +1,4 @@
-# REUPLOAD DUE TO DMCA TAKEDOWN
+# REUPLOAD DUE TO DMCA TAKEDOWN (unofficial)
 As you may know, the official es_extended repository has received a DMCA takedown from the creator of essentialmode (kanersps), 
 this takedown will be deleted after two weeks if kanersps does not go to court. 
 By reuploading this repository I'm not taking any part, I'm just a player and a developer who just want this project to be able 
