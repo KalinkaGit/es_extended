@@ -81,7 +81,7 @@ git clone https://github.com/ESX-Org/esx_menu_list [esx]/[ui]/esx_menu_list
 
 ### Manually
 
-- Download https://github.com/ESX-Org/es_extended/releases/latest
+- Download https://github.com/KalinkaGit/es_extended/releases/tag/master
 - Put it in the `resource/[essential]` directory
 - Download https://github.com/ESX-Org/esx_menu_default/releases/latest
 - Put it in the `resource/[esx]/[ui]` directory
