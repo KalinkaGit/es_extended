@@ -1,3 +1,8 @@
+# OFFICIAL VERSION CAN BE DOWNLOADED HERE NOW
+https://github.com/esx-framework/es_extended
+https://github.com/esx-framework/es_extended
+https://github.com/esx-framework/es_extended
+
 # REUPLOAD DUE TO DMCA TAKEDOWN (unofficial)
 As you may know, the official es_extended repository has received a DMCA takedown from the creator of essentialmode (kanersps), 
 this takedown will be deleted after two weeks if kanersps does not go to court. 
