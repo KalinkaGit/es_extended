@@ -1,6 +1,6 @@
 # OFFICIAL VERSION CAN BE DOWNLOADED HERE NOW
-https://github.com/esx-framework/es_extended
-https://github.com/esx-framework/es_extended
+https://github.com/esx-framework/es_extended \
+https://github.com/esx-framework/es_extended \
 https://github.com/esx-framework/es_extended
 
 # REUPLOAD DUE TO DMCA TAKEDOWN (unofficial)
